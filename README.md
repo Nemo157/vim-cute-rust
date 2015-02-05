@@ -37,7 +37,7 @@ into
 
 λ main() {
     let a = Thing { min: 2 };
-    println!("{:?}", transform(&§ (1u32..5)));
+    println!("{:?}", transform(&∫ (1u32..5)));
 }
 ```
 
