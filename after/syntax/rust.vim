@@ -39,6 +39,7 @@ syntax keyword rustCuteStorage mut conceal cchar=∫
 syntax keyword rustCuteKeyword struct conceal cchar=§
 syntax keyword rustCuteKeyword impl conceal cchar=★
 syntax keyword rustCuteKeyword trait conceal cchar=☆
+syntax keyword rustCuteKeyword enum conceal cchar=∑
 
 " Only conceal the following if surrounded by a single space on each
 " side, to avoid concealing dereferencing.

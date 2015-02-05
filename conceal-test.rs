@@ -59,4 +59,7 @@ fn main() {
 
     "★ B ∀ A { }";
      impl B for A { }
+
+    "∑ C { D }";
+     enum C { D }
 }
