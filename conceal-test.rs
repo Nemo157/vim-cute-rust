@@ -50,4 +50,10 @@ fn main() {
 
     "∀ a ∈ 1..5 { }";
      for a in 1..5 { }
+
+    "§ A;";
+     struct A;
+
+    "⫸ A { }";
+     impl A { }
 }
