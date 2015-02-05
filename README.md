@@ -50,4 +50,4 @@ This plug-in is very heavily inspired by [vim-haskellConceal][],
 
 [vim-haskellConceal]: https://github.com/Twinside/vim-haskellConceal
 [vim-cute-python]: https://github.com/yawaramin/vim-cute-python
-[the biltin rust conceal]: https://github.com/rust-lang/rust.vim/blob/master/after/syntax/rust.vim
+[the builtin rust conceal]: https://github.com/rust-lang/rust.vim/blob/master/after/syntax/rust.vim
