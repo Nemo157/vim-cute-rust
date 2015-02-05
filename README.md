@@ -25,7 +25,7 @@ into
 ```rust
 § Thing { min: i32 }
 
-⫸ Thing {
+★ Thing {
   ⸙ λ transform<I: Iterator<Item=u32>>(iter: &∫ I) → Vec<i32> {
       let ∫ output = Vec<i32>::new();
       ∀ i ∈ iter.by_ref().map(|j| ∃ j { j if j ≤ self.min ↦ j + self.min, j ↦ j }) {

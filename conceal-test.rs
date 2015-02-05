@@ -54,6 +54,9 @@ fn main() {
     "§ A;";
      struct A;
 
-    "⫸ A { }";
-     impl A { }
+    "☆ B { }";
+     trait B { }
+
+    "★ B ∀ A { }";
+     impl B for A { }
 }
